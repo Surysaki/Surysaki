@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Surysaki%E4%B8%8D%E4%BC%9A%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8" /></a></div>
+
+**Contact me:**
+
+<span > <img src="https://img.shields.io/badge/WeChat-DN17711-oringe?logo=Wechat&logoColor=oringe"/> <img src="https://img.shields.io/badge/Email-2026105895@qq.com-orange?logo=gmail"/> <img src="https://img.shields.io/badge/Github-Surysaki-black?logo=Github"/> </span>
+
+**Languages:**
+
+<span > <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-orange" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />  </span>
 
 <!--
 **Surysaki/Surysaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
